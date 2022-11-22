@@ -205,6 +205,7 @@ html {
 .progress_time{
     display: flex;
     justify-content: space-between;
+    font-size: 12px;
 }
 
 .volumn_section{
